@@ -1,7 +1,3 @@
-# tjm-grounding
-
-Desktop-automation take-home using **ScreenSpot-Pro-style coarse→fine VLM grounding**.
-
 ## What it does
 
 1. Fetches the first 10 posts from JSONPlaceholder.
